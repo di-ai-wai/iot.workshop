@@ -1,6 +1,6 @@
-# iot.workshop.german #
+# iot.workshop deutsch #
 
-click [here](https://gitbub.com/di-ai-wai/iot.workshop/README-en.md) for the english version
+click [here](./README-en.md) for the english version
 
 ## Vorbereitungen ##
 
@@ -69,9 +69,9 @@ Damit das espressif Developer Board im Device Manager auftaucht, ist ein Treiber
 
 ## Sourcen
 
-- https://github.com/di-ai-wai/iot.workshop/src
+- tbd
 
 ## Datenblätter
 
-tdb
+- tdb
 

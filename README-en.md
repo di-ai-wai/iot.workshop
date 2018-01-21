@@ -1,14 +1,14 @@
-# iot.workshop.english #
+# iot.workshop english #
 
-[Hier](https://gitbub.com/di-ai-wai/iot.workshop/README.md) findet ihr die deutsche Version
+[Hier](./README.md) findet ihr die deutsche Version
 
 ## Prerequsites ##
 
 ### Free IDEs ###
 
-All shown IDEs, tools and driver can be downloaded at no charge or regsitration.
-**Notice:**
-All links and tools are provided "as is". We do not guarantee that the downloads are virus free. It is your own responsiblity on installing and checking for viruses.    
+All shown IDEs, tools and driver can be downloaded at no charge or registration.  
+**Notice:**  
+All links and tools are provided "as is". We do not guarantee that the downloads are working and virus free. It is your own responsiblity on installing and checking for viruses.    
 
 - GIT
     - GIT-SCM: https://git-scm.com/
@@ -57,7 +57,7 @@ Since the espressif developer board is connected via USB but the chip onboard co
 - Blynk
 
     To use Blynk you need a free account. For all of you not willing to register with Blynk we will provide access information for a test account onsite.  
-    YOu will share this account with different applications installed.
+    You will share this account with different applications installed.
 
 - WiFi
 
@@ -65,8 +65,8 @@ Since the espressif developer board is connected via USB but the chip onboard co
 
 ## Sources
 
-- https://github.com/di-ai-wai/iot.workshop/src
+- tbd
 
 ## Data-sheats
 
-tdb
+- tdb
